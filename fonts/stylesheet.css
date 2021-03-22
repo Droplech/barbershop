@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'OPTICeasar';
+    src: url('OPTICeasar-Regular.eot');
+    src: url('OPTICeasar-Regular.eot?#iefix') format('embedded-opentype'),
+        url('OPTICeasar-Regular.woff2') format('woff2'),
+        url('OPTICeasar-Regular.woff') format('woff'),
+        url('OPTICeasar-Regular.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
