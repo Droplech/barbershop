@@ -5368,7 +5368,6 @@ screen and (max-height: 300px) {
     .contacts .contacts__wrapper .left-content .custom-select-wrapper {
         margin-top: 0;
         position: absolute;
-        top: 126px;
         left: 50%;
         -webkit-transform: translateX(-50%);
         -ms-transform: translateX(-50%);
@@ -5411,7 +5410,8 @@ screen and (max-height: 300px) {
 
     .contacts .contacts__wrapper .right-content .sign-up {
         -ms-flex-item-align: start;
-        align-self: flex-start
+        align-self: flex-start;
+        font-size: 22px;
     }
 
     .footer {
