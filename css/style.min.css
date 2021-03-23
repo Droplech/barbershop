@@ -2193,7 +2193,9 @@ screen and (max-height: 300px) {
 .contacts .contacts__wrapper .left-content .map {
     width: 100%;
     height: 509px;
-    background-color: red
+    background-color: red;
+    -webkit-filter: grayscale(1) invert(1);
+    filter: grayscale(1) invert(1);
 }
 
 .contacts .contacts__wrapper .right-content {
