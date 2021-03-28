@@ -6327,7 +6327,24 @@ screen and (max-height: 300px) {
         width: 100%;
     }
 }
+@media (max-width: 610px){
+    .work_master_wrapper .work_master_title{
+        font-size: 65px;
+    }
+    .work_master_content {
+        justify-content: stretch;
+        margin-right: -45px;
+    }
+    .work_master_content .work_master_item {
+        flex-basis: 45%;
+        margin-right: 16px;
+    }
+}
 @media (max-width: 420px) {
+    .work_master_content {
+        justify-content: stretch;
+        margin-right: -25px;
+    }
     .reviews_wrapper .swiper-pagination {
         top: 74px;
     }
