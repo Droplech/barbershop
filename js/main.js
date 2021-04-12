@@ -409,6 +409,7 @@ $(function () {
               return '<span class="' + className + '">' +  '</span>';
             },
         },
+ 
         breakpoints: {
             700:{
                 slidesPerView: 2,
