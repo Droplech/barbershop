@@ -2247,7 +2247,7 @@ screen and (max-height: 300px) {
 }
 
 .footer {
-    margin-top: 133px;
+    margin-top: 50px !important;
     background: url("../img/footerBg.jpg") no-repeat center/cover
 }
 
@@ -5422,7 +5422,7 @@ screen and (max-height: 300px) {
     }
 
     .footer {
-        margin-top: 0
+        margin-top: 100px
     }
 
     .footer .footer__wrapper {
